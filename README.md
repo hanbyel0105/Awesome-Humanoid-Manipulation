@@ -556,6 +556,28 @@ We use the following tags to categorize each paper:
 
   </details>
 
+- **[4] SafeFlow: Real-Time Text-Driven Humanoid Whole-Body Control via Physics-Guided Rectified Flow and Selective Safety Gating**, arXiv 2026.
+
+  *Hanbyel Cho, Sang-Hun Kim, Jeonguk Kang, Donghan Koo.*
+
+  [[Paper](https://arxiv.org/abs/2603.23983)] [[Project](https://hanbyelcho.info/safeflow/)] ![](https://img.shields.io/badge/Diffusion-blue) ![](https://img.shields.io/badge/RL-blue) ![](https://img.shields.io/badge/Loco--Manipulation-purple) ![](https://img.shields.io/badge/Sim--to--Real-orange)
+
+  <details> <summary>BibTex</summary>
+
+  ```bibtex
+  @misc{cho2026safeflowrealtimetextdrivenhumanoid,
+    title={SafeFlow: Real-Time Text-Driven Humanoid Whole-Body Control via Physics-Guided Rectified Flow and Selective Safety Gating},
+    author={Hanbyel Cho and Sang-Hun Kim and Jeonguk Kang and Donghan Koo},
+    year={2026},
+    eprint={2603.23983},
+    archivePrefix={arXiv},
+    primaryClass={cs.RO},
+    url={https://arxiv.org/abs/2603.23983},
+  }
+  ```
+
+  </details>
+
 ---
 
 ## Human Motion Generation&Dataset
